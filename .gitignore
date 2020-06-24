@@ -2,3 +2,4 @@
 /nifi-sample-nar/target/
 /nifi-sample-processors/target/
 /target/
+/.idea/
